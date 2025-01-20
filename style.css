@@ -1,0 +1,106 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+body {
+  font-family: "Roboto"
+}
+
+html {
+  background-color: blanchedalmond;
+
+}
+
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.acordeon{
+  width: 655px;
+  min-height: 347px;
+  background-color: #fff;
+  border-radius: 30px;
+  box-shadow: 0 27px 49px -25px rgba(0,0,0,0.3);
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.acordeon .banner {
+  position: absolute;
+  left: -90px;
+}
+
+.acordeon .container {
+  width: 90%;
+  padding-left: 225px;
+}
+
+.acordeon .container h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.acordeon .items {
+  list-style-type: none;
+}
+
+.acordeon .items .item {
+  cursor: pointer;
+  background-image: url(seta-preta.png);
+  background-repeat: no-repeat;
+  background-position: top 8px right 0;
+  background-size: 12px;
+  border-bottom: 1px solid white;
+  margin: 10px 0;
+}
+
+.acordeon .items .item:last-child {
+  border-bottom: none;
+}
+
+.acordeon .items .item .pergunta {
+  padding-bottom:  15px;
+  transition: 0.2s ease;
+  font-size: 17px;
+  width: 90%;
+  font-weight: 500;
+}
+
+.item .pergunta:hover{
+  color: orange;
+}
+
+.resposta {
+  display: none;
+  padding-bottom: 15px;
+  font-size: 15px;
+  font-weight: 300;
+}
+
+
+/*estilos de item de acordeon ativo*/
+.acordeon .items .item.ativo h2 {
+  font-weight: 700;
+  font-size: 17px;
+}
+
+.acordeon .items .item.ativo .resposta {
+  display: block;
+}
+
+.acordeon .items .item.ativo {
+  background-image: url(seta-vermelha.png);
+}
+
+.acordeon .items .item .resposta {
+  display: none;
+  padding-bottom: 15px 0;
+  font-size: 15px;
+  color: #333;
+  font-weight: 300;
+}
+

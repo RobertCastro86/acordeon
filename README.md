@@ -1,20 +1,22 @@
-# Página FAQ - Site de Vendas Online
+# Projeto Acordeon: FAQ Interativo
 
 ## Descrição
 
-Este repositório contém o código fonte da página de Perguntas Frequentes (FAQ) para o nosso site de vendas online. A página foi desenvolvida com o objetivo de fornecer aos usuários respostas claras e concisas para suas dúvidas mais comuns, facilitando a navegação e a experiência de compra.
+Este projeto visa criar uma seção de Perguntas Frequentes (FAQ) interativa e intuitiva, utilizando o formato acordeon. Cada pergunta, ao ser clicada, expande-se para revelar sua respectiva resposta. O objetivo é oferecer aos usuários uma experiência mais dinâmica e fácil de navegar.
 
 ## Funcionalidades
 
-* **Pesquisa:** Permite que os usuários encontrem rapidamente a resposta para suas perguntas.
-* **Organização:** As perguntas e respostas são apresentadas de forma clara e concisa, agrupadas por tópicos quando necessário.
-* **Responsividade:** A página se adapta a diferentes tamanhos de tela, garantindo uma experiência consistente em dispositivos móveis e desktops.
-* **Design Moderno:** Utiliza as fontes Google Fonts (Roboto, Open Sans e Montserrat) para um visual clean e profissional.
+* **Formato Acordeon:** As perguntas se comportam como um acordeon, expandindo e recolhendo ao serem clicadas.
+* **Responsividade:** A página se adapta a diferentes tamanhos de tela, garantindo uma boa experiência em dispositivos móveis e desktops.
+* **Acessibilidade:** O componente acordeon é construído com foco em acessibilidade, utilizando ARIA attributes para auxiliar usuários de tecnologias assistivas.
 
 ## Tecnologias Utilizadas
 
-* **HTML5:** Estrutura da página.
-* **CSS3:** Estilização da página, incluindo layout, cores e tipografia.
-* **JavaScript:** Interatividade da página, como a função de pesquisa.
+* **HTML5:** Estrutura da página e dos elementos acordeon.
+* **CSS3:** Estilização da página, incluindo animações e transições para o efeito acordeon.
+* **JavaScript:** Interatividade, manipulação do DOM para expandir e recolher os painéis de respostas.
 
-## Estrutura do Projeto
+* # Como Utilizar
+
+1. **Clonar o repositório:**
+   ```bash

@@ -16,7 +16,7 @@ Este projeto visa criar uma seção de Perguntas Frequentes (FAQ) interativa e i
 * **CSS3:** Estilização da página, incluindo animações e transições para o efeito acordeon.
 * **JavaScript:** Interatividade, manipulação do DOM para expandir e recolher os painéis de respostas.
 
-* # Como Utilizar
+## Como Utilizar
 
 1. **Clonar o repositório:**
    ```bash https://github.com/RobertCastro86/acordeon.git

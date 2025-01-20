@@ -1,7 +1,7 @@
 # Projeto Acordeon: FAQ Interativo
 
 <div align="center">
-  <a href="acordeon.JPG">
+  <a href="acordeon.JPG](https://github.com/RobertCastro86/acordeon/blob/main/acordeon.JPG">
     <img height="180em" src="Olá, me chamo Robert. Muito prazer..png"/>
 </div>
 

@@ -25,3 +25,5 @@ Este projeto visa criar uma seção de Perguntas Frequentes (FAQ) interativa e i
 
 1. **Clonar o repositório:**
    ```bash https://github.com/RobertCastro86/acordeon.git
+   https://github.com/RobertCastro86/acordeon.git
+   

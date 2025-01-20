@@ -1,5 +1,10 @@
 # Projeto Acordeon: FAQ Interativo
 
+<div align="center">
+  <a href="https://github.com/RobertCastro86">
+    <img height="180em" src="Olá, me chamo Robert. Muito prazer..png"/>
+</div>
+
 ## Descrição
 
 Este projeto visa criar uma seção de Perguntas Frequentes (FAQ) interativa e intuitiva, utilizando o formato acordeon. Cada pergunta, ao ser clicada, expande-se para revelar sua respectiva resposta. O objetivo é oferecer aos usuários uma experiência mais dinâmica e fácil de navegar.

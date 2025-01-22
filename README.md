@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="[https://github.com/RobertCastro86](https://acordeon-one.vercel.app/)">
-    <img height="400em" src="https://github.com/RobertCastro86/acordeon/blob/main/acordeon.JPG"/>
+    <img height="300em" src="https://github.com/RobertCastro86/acordeon/blob/main/acordeon.JPG"/>
 </div>
 
 ## Descrição
